@@ -60,4 +60,4 @@ For more information on using the Angular CLI, including detailed command refere
 
 ## Screenshot
 
-![](/public/images/Screenshot%202025-09-21%20152458.png)
+![](/public/images/project-screenshot.png)
